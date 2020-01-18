@@ -1,2 +1,5 @@
 # Solved-tasks
-My interview preparation
+* task 1
+```javascript
+const a = 123;
+```
